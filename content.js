@@ -1,1 +1,1 @@
-console.log("hello my fist extension");
+console.log("hello my fist pretty extension");
